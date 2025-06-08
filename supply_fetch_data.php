@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root"; // Replace with your database username
-$password = "bensent09351038956"; // Replace with your database password
+$password = "..."; // Replace with your database password
 $dbname = "yulje_inventory";
 
 // Create connection

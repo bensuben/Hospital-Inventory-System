@@ -4,7 +4,7 @@ session_start();
 // Database connection parameters
 $servername = "localhost";
 $dbusername = "root";
-$dbpassword = "bensent09351038956"; // Your MySQL root password
+$dbpassword = "..."; // Your MySQL root password
 $dbname = "loginDB";
 
 // Create connection
